@@ -19,11 +19,11 @@ Pipeline architecture:
 
 Watcher → Processor → Uploader → Messenger -> Archiver
 
-Watcher: detects new files in a specified folder
-Processor: ensures file is stable and valid
-Uploader: sends file to cloud and gets URL(Cloudinary API)
-Messenger: sends the file via WhatsApp(Twilio API)
-Archiver: Archives the files Processed
+- Watcher : detects new files in a specified folder
+- Processor : ensures file is stable and valid
+- Uploader : sends file to cloud and gets URL(Cloudinary API)
+- Messenger : sends the file via WhatsApp(Twilio API)
+- Archiver : Archives the files Processed
 
 ## 🛠️ Tech Stack
 
@@ -97,10 +97,10 @@ This project was developed with the assistance of AI as a learning and productiv
 AI was primarily used for Mentorship regarding Best Practices for Project Preparation
 
 it helped me with:
- understanding how system designs and architecures are made
- Understanding system design concepts such as e concurrency
- Debugging issues and refining implementation approaches
- Gaining insights into best practices for structuring and scaling the system
+- understanding how system designs and architecures are made
+- Understanding system design concepts such as e concurrency
+- Debugging issues and refining implementation approaches
+- Gaining insights into best practices for structuring and scaling the system
  and this readme.md
 
 AND this is not some ai slop
