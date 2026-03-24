@@ -4,14 +4,14 @@ An event-driven file processing pipeline that automatically detects files in a f
 
 ## 🚀Features
 
-📂 Folder monitoring using watchdog
-⏳ File stability check (prevents incomplete uploads)
-📦 Supports images, videos, and raw files
-☁️ Cloud upload integration with Cloudinary
-💬 WhatsApp messaging using Twilio
-⚙️ Configurable via environment variables
-📦 File Archived After Process
-🗒️ Loggings of Processes
+- 📂 Folder monitoring using watchdog
+- ⏳ File stability check (prevents incomplete uploads)
+- 📦 Supports images, videos, and raw files
+- ☁️ Cloud upload integration with Cloudinary
+- 💬 WhatsApp messaging using Twilio
+- ⚙️ Configurable via environment variables
+- 📦 File Archived After Process
+- 🗒️ Loggings of Processes
 
 ## 🧠 How It Works
 
