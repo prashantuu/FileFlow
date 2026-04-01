@@ -1,6 +1,7 @@
 # FileFlow
 
 An event-driven file processing pipeline that automatically detects files in a folder, validates them, uploads them to cloud storage, and sends them via WhatsApp.
+Made it with the sole objective to learn.
 
 ## 🚀Features
 
@@ -83,11 +84,11 @@ python main.py
 ```
 
 ## 💡 Why This Project
- to explore event-driven architecture, file system monitoring, and handling real-world issues like file stability, concurrency,external API integration and blah blah waste of time. 
+ to explore event-driven architecture, file system monitoring, and handling real-world issues like file stability, concurrency and external API integration.
 
 ## 🤖 AI Assistance
 
-ofc i used chatgpt and Gemini, this is my first ever project and i don't have any mentor who would told me about Structure of a Projects and stuff 
+ofc i used chatgpt and Gemini, as i don't have any mentor who would teach me about Structure of a Project and stuff 
 
 This project was developed with the assistance of AI as a learning and productivity tool.
 
@@ -107,5 +108,5 @@ Learnt Cloudinary and Twilio stuffs from the Docs available
 
 ## 📗 Application
 
-nothing
+hehe
 
