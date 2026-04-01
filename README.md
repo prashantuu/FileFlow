@@ -83,10 +83,7 @@ python main.py
 ```
 
 ## 💡 Why This Project
-
-i absolutely have no idea. this is some lame waste of time but i asked chatgpt and behold the reason : 
-
-This project was built to explore event-driven architecture, file system monitoring, and handling real-world issues like file stability, concurrency,external API integration and blah blah waste of time. 
+ to explore event-driven architecture, file system monitoring, and handling real-world issues like file stability, concurrency,external API integration and blah blah waste of time. 
 
 ## 🤖 AI Assistance
 
