@@ -84,29 +84,5 @@ python main.py
 ```
 
 ## 💡 Why This Project
- to explore event-driven architecture, file system monitoring, and handling real-world issues like file stability, concurrency and external API integration.
-
-## 🤖 AI Assistance
-
-ofc i used chatgpt and Gemini, as i don't have any mentor who would teach me about Structure of a Project and stuff 
-
-This project was developed with the assistance of AI as a learning and productivity tool.
-
-AI was primarily used for Mentorship regarding Best Practices for Project Preparation
-
-it helped me with:
-- understanding how system designs and architecures are made
-- Understanding system design concepts such as e concurrency
-- Debugging issues and refining implementation approaches
-- Gaining insights into best practices for structuring and scaling the system
- and this readme.md
-
-AND this is not some ai slop
-All core implementation, integration, and decision-making were carried out by me 
-lil bit of Codes from Chatgpt/Gemini where used for concurrency as i had no idea about it but i do now
-Learnt Cloudinary and Twilio stuffs from the Docs available
-
-## 📗 Application
-
-hehe
+ to explore event-driven architecture, file system monitoring, and handling real-world issues like file stability, concurrency and external API integration
 
